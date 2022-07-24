@@ -2,5 +2,6 @@
 "name": "Raison D'etre",
 "description": "Raison D'etre is a series of narrative on existence, being, and creation NFT. We are here to provide value to the Cardano community and to also help further decentralize the Cardano Blockchain.",
 "ticker": "RTB",
-"homepage": "https://raisondetrertb.art"
+"homepage": "https://raisondetrertb.art",
+"extended": "https://raw.githubusercontent.com/rtb131/rtbmetadata/main/extended.json"
 }
