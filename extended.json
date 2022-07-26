@@ -13,7 +13,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Raison D'etre",
+            "name": "",
             "addr": "",
             "city": "",
             "country": "",
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "...",
+            "me": "Raison D'etre is a series of narratives on existence, being, and creation, experimented on both the real and virtual world with an intent to expand beyond the digital experience. A new way of storytelling, explored on the anticipated or may have already begun to be future",
             "server": "",
-            "company": "..."
+            "company": ""
         }
     }
 }
